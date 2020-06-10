@@ -2,8 +2,8 @@
 
 - [x] 1. Welcome!
       1. Reading Materials: Welcome
-- [ ] 2. DevOps and Git in a Nutshell
-   - [ ] 1. Video: DevOps and Git in a Nutshell
+- [x] 2. DevOps and Git in a Nutshell
+      1. Video: DevOps and Git in a Nutshell
 - [ ] 3. Git Overview
    - [ ] 1. Video: Git Overview
    - [ ] 2. Video: 
