@@ -37,12 +37,12 @@ This module gets you started using Git. It provides the foundation for the rest 
   1. **Reading:** [Welcome](https://www.coursera.org/learn/version-control-with-git/supplement/nOCfq/welcome) ([note](./Lectures/week1/Welcome.md))
 - [x] 2. DevOps and Git in a Nutshell
   1. **Video:** [DevOps and Git in a Nutshell](https://www.coursera.org/learn/version-control-with-git/lecture/ySzMb/devops-and-git-in-a-nutshell) ([note](./Lectures/week1/DevOps and Git in a Nutshell.md))
-- [ ] 3. Git Overview
-  - [x] 1. **Video:** [Git Overview](https://www.coursera.org/learn/version-control-with-git/lecture/WFdJp/git-overview) ([note](./Lectures/week1/Git Overview.md))
+- [x] 3. Git Overview
+  1. **Video:** [Git Overview](https://www.coursera.org/learn/version-control-with-git/lecture/WFdJp/git-overview) ([note](./Lectures/week1/Git Overview.md))
   2. **Video:** [(Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/COD2g/sourcetree-installation-and-getting-started)
   3. **Reading:** [(Lab- Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/iqpYl/lab-sourcetree-installation-and-getting-started)
-  - [x] 4. **Video:** [(Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/AiSks/command-line-installation-and-getting-started) ([note](./Lectures/week1/Installation and Getting Started.md))
-  - [ ] 5. **Reading:** (Lab- Command Line) Installation and Getting Started
+  4. **Video:** [(Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/AiSks/command-line-installation-and-getting-started) ([note](./Lectures/week1/Installation and Getting Started.md))
+  5. **Reading:** [(Lab- Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/dF2Zr/lab-command-line-installation-and-getting-started) ([note](./Lectures/week1/Lab Materials/Lab- Command Line - Installation and Getting Started.md))
 - [ ] 4. Git Locations
   - [ ] 1. **Video:** Git Locations
   2. **Video:** (Sourcetree) Create a Local Repository
