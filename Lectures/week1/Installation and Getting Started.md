@@ -53,4 +53,3 @@ Check the value
 Specify an editor that you like:
 
 `$ git config --global core.editor nano`
-
