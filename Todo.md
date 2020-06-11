@@ -7,8 +7,8 @@
 - [x] 2. DevOps and Git in a Nutshell
       1. Video: DevOps and Git in a Nutshell
 - [ ] 3. Git Overview
-   - [ ] 1. Video: Git Overview
-   - [ ] 2. Video: Command Line) Installation and Getting Started
+   - [x] 1. Video: Git Overview
+   - [x] 2. Video: Command Line) Installation and Getting Started
    - [ ] 3. Reading: (Lab- Command Line) Installation and Getting Started
 - [ ] 4. Git Locations
    - [ ] 1. Video: Git Locations
