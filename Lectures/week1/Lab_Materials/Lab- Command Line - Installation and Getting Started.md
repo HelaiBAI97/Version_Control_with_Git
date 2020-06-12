@@ -4,7 +4,7 @@ Estimated time: 10 minutes
 
 > Note: This lab assumes that you want to use a Command Line Interface (CLI) for this course. If you would prefer to use the Sourcetree graphical client, there are separate instructions.
 > 
-> Note: If you are a Windows user, the command line instructions assume you are using Git **bash**.
+> Note: If you are a Windows user, the command line instructions assume you are using **Git bash**.
 
 In this lab, you will:
 1. Install the Git command line interface (if necessary).
