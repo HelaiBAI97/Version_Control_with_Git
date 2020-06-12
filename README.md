@@ -34,32 +34,32 @@ This module gets you started using Git. It provides the foundation for the rest 
 #### Contents
 
 - [x] 1. Welcome!
-  1. **Reading:** [Welcome](https://www.coursera.org/learn/version-control-with-git/supplement/nOCfq/welcome) ([note](./Lectures/week1/Welcome.md))
+        1. **Reading:** [Welcome](https://www.coursera.org/learn/version-control-with-git/supplement/nOCfq/welcome) ([note](./Lectures/week1/Welcome.md))
 - [x] 2. DevOps and Git in a Nutshell
-  1. **Video:** [DevOps and Git in a Nutshell](https://www.coursera.org/learn/version-control-with-git/lecture/ySzMb/devops-and-git-in-a-nutshell) ([note](./Lectures/week1/DevOps and Git in a Nutshell.md))
+        1. **Video:** [DevOps and Git in a Nutshell](https://www.coursera.org/learn/version-control-with-git/lecture/ySzMb/devops-and-git-in-a-nutshell) ([note](./Lectures/week1/DevOps and Git in a Nutshell.md))
 - [x] 3. Git Overview
-  1. **Video:** [Git Overview](https://www.coursera.org/learn/version-control-with-git/lecture/WFdJp/git-overview) ([note](./Lectures/week1/Git Overview.md))
-  2. **Video:** [(Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/COD2g/sourcetree-installation-and-getting-started)
-  3. **Reading:** [(Lab- Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/iqpYl/lab-sourcetree-installation-and-getting-started)
-  4. **Video:** [(Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/AiSks/command-line-installation-and-getting-started) ([note](./Lectures/week1/Installation and Getting Started.md))
-  5. **Reading:** [(Lab- Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/dF2Zr/lab-command-line-installation-and-getting-started) ([handout](./Lectures/week1/Lab Materials/Lab- Command Line - Installation and Getting Started.md)) ([note](./Lectures/week1/Lab- Installation and Getting Started.md))
-- [ ] 4. Git Locations
-  - [x] 1. **Video:** [Git Locations](https://www.coursera.org/learn/version-control-with-git/lecture/SMJIy/git-locations) ([note](./Lectures/week1/Git Locations.md))
-  2. **Video:** [(Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/qNBvT/sourcetree-create-a-local-repository)
-  3. **Reading:** [(Lab- Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/supplement/ea4gj/lab-sourcetree-create-a-local-repository)
-  - [x] 4. **Video:** [(Command Line) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/f9fbm/command-line-create-a-local-repository) ([note](./Lectures/week1/Create a Local Repository.md))
-  - [ ] 5. **Reading:** (Lab- Command Line) Create a Local Repository
+        1. **Video:** [Git Overview](https://www.coursera.org/learn/version-control-with-git/lecture/WFdJp/git-overview) ([note](./Lectures/week1/Git Overview.md))
+        2. **Video:** [(Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/COD2g/sourcetree-installation-and-getting-started)
+        3. **Reading:** [(Lab- Sourcetree) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/iqpYl/lab-sourcetree-installation-and-getting-started)
+        4. **Video:** [(Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/AiSks/command-line-installation-and-getting-started) ([note](./Lectures/week1/Installation and Getting Started.md))
+        5. **Reading:** [(Lab- Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/dF2Zr/lab-command-line-installation-and-getting-started) ([handout](./Lectures/week1/Lab Materials/Lab- Command Line - Installation and Getting Started.md)) ([note](./Lectures/week1/Lab- Installation and Getting Started.md))
+- [x] 4. Git Locations
+        1. **Video:** [Git Locations](https://www.coursera.org/learn/version-control-with-git/lecture/SMJIy/git-locations) ([note](./Lectures/week1/Git Locations.md))
+        2. **Video:** [(Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/qNBvT/sourcetree-create-a-local-repository)
+        3. **Reading:** [(Lab- Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/supplement/ea4gj/lab-sourcetree-create-a-local-repository)
+        4. **Video:** [(Command Line) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/f9fbm/command-line-create-a-local-repository) ([note](./Lectures/week1/Create a Local Repository.md))
+        5. **Reading:** [(Lab- Command Line) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/supplement/KqYRY/lab-command-line-create-a-local-repository) ([handout](./Lectures/week1/Lab Materials/Lab- Command Line - Create a Local Repository.md)) 
 - [ ] 5. Commit to a Local Repository
-  1. **Video:** (Sourcetree) Commit to a Local Repository
-  2. **Reading:** (Lab- Sourcetree) Commit to a Local Repository
+        1. **Video:** (Sourcetree) Commit to a Local Repository
+        2. **Reading:** (Lab- Sourcetree) Commit to a Local Repository
   - [ ] 3. **Video:** (Command Line) Commit to a Local Repository
   - [ ] 4. **Reading:** (Lab- Command Line) Commit to a Local Repository
 - [ ] 6. Create a Remote Repository
   - [ ] 1. **Video:** Create a Remote Repository
   - [ ] 2. **Reading:** (Lab) - Create a Remote Repository
 - [ ] 7. Push to a Remote Repository
-  1. **Video:** (Sourcetree) Push to a Remote Repository
-  2. **Reading:** (Lab- Sourcetree) Push to a Remote Repository
+        1. **Video:** (Sourcetree) Push to a Remote Repository
+        2. **Reading:** (Lab- Sourcetree) Push to a Remote Repository
   - [ ] 3. **Video:** (Command Line) Push to a Remote Repository
   - [ ] 4. **Reading:** (Lab- Command Line) Push to a Remote Repository
 - [ ] 8. Module Assessment
@@ -89,18 +89,18 @@ This module discusses to of the key concepts involved with Git: branching and me
   1. **Video:** (Sourcetree) Git IDs
   - [ ] 2. **Video:** (Command Line) Git IDs
 - [ ] 3. Git References
-  1. **Video:** (Sourcetree) Git References
-  2. **Reading:** (Lab- Sourcetree) Git References
+        1. **Video:** (Sourcetree) Git References
+        2. **Reading:** (Lab- Sourcetree) Git References
   - [ ] 3. **Video:** (Command Line) Git References
   - [ ] 4. **Reading:** (Lab- Command Line) Git References
 - [ ] 4. Branches
-  1. **Video:** (Sourcetree) Branches
-  2. **Reading:** (Lab- Sourcetree) Branches
+        1. **Video:** (Sourcetree) Branches
+        2. **Reading:** (Lab- Sourcetree) Branches
   - [ ] 3. **Video:** (Command Line) Branches
   - [ ] 4. **Reading:** (Lab- Command Line) Branches
 - [ ] 5. Merging
-  1. **Video:** (Sourcetree) Merging
-  2. **Reading:** (Lab- Sourcetree) Merging
+        1. **Video:** (Sourcetree) Merging
+        2. **Reading:** (Lab- Sourcetree) Merging
   - [ ] 3. **Video:** (Command Line) Merging
   - [ ] 4. **Reading:** (Lab- Command Line) Merging
 - [ ] 6. Module Assessment
@@ -127,28 +127,28 @@ This module continues the discussion of branching and merging. It starts with re
 #### Contents
 
 - [ ] 1. Resolving Merge Conflicts
-  1. **Video:** (Sourcetree) Resolving Merge Conflicts
-  2. **Reading:** (Lab- Sourcetree) Resolving Merge Conflicts
+        1. **Video:** (Sourcetree) Resolving Merge Conflicts
+        2. **Reading:** (Lab- Sourcetree) Resolving Merge Conflicts
   - [ ] 3. **Video:** (Command Line) Resolving Merge Conflicts
   - [ ] 4. **Reading:** (Lab- Command Line) Resolving Merge Conflicts
 - [ ] 2. Tracking Branches
-  1. **Video:** (Sourcetree) Tracking Branches
-  2. **Reading:** (Lab- Sourcetree) Tracking Branches
+        1. **Video:** (Sourcetree) Tracking Branches
+        2. **Reading:** (Lab- Sourcetree) Tracking Branches
   - [ ] 3. **Video:** (Command Line) Tracking Branches
   - [ ] 4. **Reading:** (Lab- Command Line) Tracking Branches
 - [ ] 3. Fetch, Pull and Push
-  1. **Video:** (Sourcetree) Fetch, Pull and Push
-  2. **Reading:** (Lab- Sourcetree) Fetch, Pull and Push
+        1. **Video:** (Sourcetree) Fetch, Pull and Push
+        2. **Reading:** (Lab- Sourcetree) Fetch, Pull and Push
   - [ ] 3. **Video:** (Command Line) Fetch, Pull and Push
   - [ ] 4. **Reading:** (Lab- Command Line) Fetch, Pull and Push
 - [ ] 4. Rebasing
-  1. **Video:** (Sourcetree) Rebasing
-  2. **Reading:** (Lab- Sourcetree) Rebasing
+        1. **Video:** (Sourcetree) Rebasing
+        2. **Reading:** (Lab- Sourcetree) Rebasing
   - [ ] 3. **Video:** (Command Line) Rebasing
   - [ ] 4. **Reading:** (Lab- Command Line) Rebasing
 - [ ] 5. Rewriting History
-  1. **Video:** (Sourcetree) Rewriting History
-  2. **Reading:** (Lab- Sourcetree) Rewriting History
+        1. **Video:** (Sourcetree) Rewriting History
+        2. **Reading:** (Lab- Sourcetree) Rewriting History
   - [ ] 3. **Video:** (Command Line) Rewriting History
   - [ ] 4. **Reading:** (Lab- Command Line) Rewriting History
 - [ ] 6. Module Assessment
@@ -175,13 +175,13 @@ This module covers topics on how teams work with Git. Git is flexible enough to 
 #### Contents
 
 - [ ] 1. Pull Requests I
-  1. **Video:** (Sourcetree) Pull Requests I
-  2. **Reading:** (Lab- Sourcetree) Pull Requests I
+        1. **Video:** (Sourcetree) Pull Requests I
+        2. **Reading:** (Lab- Sourcetree) Pull Requests I
   - [ ] 3. **Video:** (Command Line) Pull Requests I
   - [ ] 4. **Reading:** (Lab- Command Line) Pull Requests I
 - [ ] 2. Pull Requests II
   - [ ] 1. **Video:** Pull Requests II
-  2. **Reading:** (Lab- Sourcetree) Pull Requests II
+        2. **Reading:** (Lab- Sourcetree) Pull Requests II
   - [ ] 3. **Reading:** (Lab- Command Line) Pull Requests II
 - [ ] 3. Git Workflows
   - [ ] 1. **Video:** Git Workflows
