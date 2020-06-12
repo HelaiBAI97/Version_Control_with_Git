@@ -44,7 +44,7 @@ This module gets you started using Git. It provides the foundation for the rest 
   4. **Video:** [(Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/lecture/AiSks/command-line-installation-and-getting-started) ([note](./Lectures/week1/Installation and Getting Started.md))
   5. **Reading:** [(Lab- Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/dF2Zr/lab-command-line-installation-and-getting-started) ([note](./Lectures/week1/Lab Materials/Lab- Command Line - Installation and Getting Started.md))
 - [ ] 4. Git Locations
-  - [ ] 1. **Video:** Git Locations
+  - [x] 1. **Video:** [Git Locations](https://www.coursera.org/learn/version-control-with-git/lecture/SMJIy/git-locations) ([note](./Lectures/week1/Git Locations.md))
   2. **Video:** (Sourcetree) Create a Local Repository
   3. **Reading:** (Lab- Sourcetree) Create a Local Repository
   - [ ] 4. **Video:** (Command Line) Create a Local Repository
