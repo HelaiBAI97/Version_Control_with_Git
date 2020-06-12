@@ -12,7 +12,7 @@
         3. Reading: (Lab- Command Line) Installation and Getting Started
 - [ ] 4. Git Locations
    - [x] 1. Video: Git Locations
-   - [ ] 2. Video: (Command Line) Create a Local Repository
+   - [x] 2. Video: (Command Line) Create a Local Repository
    - [ ] 3. Reading: (Lab- Command Line) Create a Local Repository
 - [ ] 5. Commit to a Local Repository
    - [ ] 1. Video: (Command Line) Commit to a Local Repository

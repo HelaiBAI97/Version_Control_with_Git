@@ -45,9 +45,9 @@ This module gets you started using Git. It provides the foundation for the rest 
   5. **Reading:** [(Lab- Command Line) Installation and Getting Started](https://www.coursera.org/learn/version-control-with-git/supplement/dF2Zr/lab-command-line-installation-and-getting-started) ([handout](./Lectures/week1/Lab Materials/Lab- Command Line - Installation and Getting Started.md)) ([note](./Lectures/week1/Lab- Installation and Getting Started.md))
 - [ ] 4. Git Locations
   - [x] 1. **Video:** [Git Locations](https://www.coursera.org/learn/version-control-with-git/lecture/SMJIy/git-locations) ([note](./Lectures/week1/Git Locations.md))
-  2. **Video:** (Sourcetree) Create a Local Repository
-  3. **Reading:** (Lab- Sourcetree) Create a Local Repository
-  - [ ] 4. **Video:** (Command Line) Create a Local Repository
+  2. **Video:** [(Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/qNBvT/sourcetree-create-a-local-repository)
+  3. **Reading:** [(Lab- Sourcetree) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/supplement/ea4gj/lab-sourcetree-create-a-local-repository)
+  - [x] 4. **Video:** [(Command Line) Create a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/f9fbm/command-line-create-a-local-repository) ([note](./Lectures/week1/Create a Local Repository.md))
   - [ ] 5. **Reading:** (Lab- Command Line) Create a Local Repository
 - [ ] 5. Commit to a Local Repository
   1. **Video:** (Sourcetree) Commit to a Local Repository
