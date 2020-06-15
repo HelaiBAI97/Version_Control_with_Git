@@ -14,9 +14,9 @@
         1. Video: Git Locations
         2. Video: (Command Line) Create a Local Repository
         3. Reading: (Lab- Command Line) Create a Local Repository
-- [ ] 5. Commit to a Local Repository
-   - [x] 1. Video: (Command Line) Commit to a Local Repository
-   - [ ] 2. Reading: (Lab- Command Line) Commit to a Local Repository
+- [x] 5. Commit to a Local Repository
+        1. Video: (Command Line) Commit to a Local Repository
+        2. Reading: (Lab- Command Line) Commit to a Local Repository
 - [ ] 6. Create a Remote Repository
    - [ ] 1. Video: Create a Remote Repository
    - [ ] 2. Reading: (Lab) - Create a Remote Repository
