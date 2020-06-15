@@ -17,9 +17,9 @@
 - [x] 5. Commit to a Local Repository
         1. Video: (Command Line) Commit to a Local Repository
         2. Reading: (Lab- Command Line) Commit to a Local Repository
-- [ ] 6. Create a Remote Repository
-   - [x] 1. Video: Create a Remote Repository
-   - [ ] 2. Reading: (Lab) - Create a Remote Repository
+- [x] 6. Create a Remote Repository
+        1. Video: Create a Remote Repository
+        2. Reading: (Lab) - Create a Remote Repository
 - [ ] 7. Push to a Remote Repository
    - [ ] 1. Video: (Command Line) Push to a Remote Repository
    - [ ] 2. Reading: (Lab- Command Line) Push to a Remote Repository
