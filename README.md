@@ -55,7 +55,7 @@ This module gets you started using Git. It provides the foundation for the rest 
         3. **Video:** [(Command Line) Commit to a Local Repository](https://www.coursera.org/learn/version-control-with-git/lecture/zBlSu/command-line-commit-to-a-local-repository) ([note](./Lectures/week1/Commit to a Local Repository.md))
         4. **Reading:** [(Lab- Command Line) Commit to a Local Repository](https://www.coursera.org/learn/version-control-with-git/supplement/OjWu9/lab-command-line-commit-to-a-local-repository) ([handout](./Lectures/week1/Lab Materials/Lab- Command Line - Commit to a Local Repository.md)) 
 - [ ] 6. Create a Remote Repository
-  - [ ] 1. **Video:** Create a Remote Repository
+  - [x] 1. **Video:** [Create a Remote Repository](https://www.coursera.org/learn/version-control-with-git/lecture/umjj0/create-a-remote-repository) ([note](./Lectures/week1/Create a Remote Repository.md))
   - [ ] 2. **Reading:** (Lab) - Create a Remote Repository
 - [ ] 7. Push to a Remote Repository
         1. **Video:** (Sourcetree) Push to a Remote Repository
